@@ -9,7 +9,7 @@ Helps in manipulating and filtering tabular data for efficient color matching.
 <h1>CSV Files</h1>
 colors.csv serves as the data source for matching RGB values to color names
 
-<ul>working</ul>
+<h1>Work</h1>
 <li>Detects colors in a static image.</li>
 <li>Displays the color name and RGB values of the pixel under the cursor dynamically.</li>
 <li>Reads an image file from user input and matches its RGB values to the nearest color in colors.csv.</li>
