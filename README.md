@@ -1,4 +1,4 @@
-<h1?OpenCV (cv2)<h1>
+<h1>OpenCV (cv2)<h1>
 
 Used for image processing and handling video streams (e.g., webcam).
 Features include mouse event handling, color detection, drawing rectangles, and displaying frames.
